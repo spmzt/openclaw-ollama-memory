@@ -1,7 +1,7 @@
 ---
 name: openclaw-ollama-memory
 description: "Set up local semantic memory search in OpenClaw using Ollama + nomic-embed-text. Free, private, offline-capable. Replaces cloud embedding APIs (OpenAI, Gemini) with a locally-running model. Trigger phrases: ollama memory, local embeddings, private memory search, offline memory, free embeddings, nomic-embed-text."
-metadata: {"clawdbot":{"emoji":"🧠","requires":{"bins":["ollama","curl"]},"os":["linux","darwin","win32"]}}
+metadata: {"clawdbot":{"emoji":"🧠","requires":{"bins":["ollama","curl"]},"os":["linux","darwin","win32","freebsd"]}}
 ---
 
 # OpenClaw Ollama Memory
